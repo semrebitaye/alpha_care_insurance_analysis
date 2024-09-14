@@ -3,3 +3,7 @@ venv/
 
 # Ignore Python cache files
 Data/
+<<<<<<< HEAD
+=======
+.dvc/
+>>>>>>> a852b18d447c441dfc9e5d8f4ca84792fc230bc0
